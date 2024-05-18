@@ -234,6 +234,7 @@ avaqmd.ca.gov
 avedge.dts.ca.gov
 avet.assembly.ca.gov
 awpw.assembly.ca.gov
+azure-appgw-test3.dsh.ca.gov
 b2capi-uat.waterboards.ca.gov
 b2capi.waterboards.ca.gov
 babysafe.ca.gov
@@ -345,6 +346,7 @@ caflm.blogs.ca.gov
 cahan.ca.gov
 cahan2.ca.gov
 cais.ca.gov
+cal-osha.ca.gov
 cal.access.ca.gov
 calable.ca.gov
 calartsftp.cac.ca.gov
@@ -724,6 +726,7 @@ doj.ca.gov
 dor.ca.gov
 doriis.ca.gov
 doriisgd.doriis.ca.gov
+doriistraining.calrecycle.ca.gov
 dot.ca.gov
 download.im.ces.ca.gov
 dpa.ca.gov
@@ -767,7 +770,6 @@ eamsdmprep.dwc.ca.gov
 eamsprep.dwc.ca.gov
 eapp.oshpd.ca.gov
 earlystartreport.dds.ca.gov
-earthquake.ca.gov
 eas.lc.ca.gov
 ebilling.dds.ca.gov
 eblr.cdph.ca.gov
@@ -820,7 +822,6 @@ emergingtech.assembly.ca.gov
 emft.dev.courts.ca.gov
 emft.stg.courts.ca.gov
 emft.tc1.courts.ca.gov
-employment.htedd.ca.gov
 emtcert.emsa.ca.gov
 encrypt.ftb.ca.gov
 energy.ca.gov
@@ -841,6 +842,7 @@ epm.cps.ca.gov
 epm.fiscal.ca.gov
 eportal.dhcs.ca.gov
 es-dmz-prod.calpia.ca.gov
+esapps.dmv.ca.gov
 eserv.oshpd.ca.gov
 eservices.edd.ca.gov
 eservices.fairfield.ca.gov
@@ -1129,6 +1131,7 @@ legacy.co.madera.ca.gov
 legacy.cps.ca.gov
 legacy.danville.ca.gov
 legacy.dinuba.ca.gov
+legacy.dmv.ca.gov
 legacy.jud.ca.gov
 legacy.lc.ca.gov
 legacy.mail.ca.gov
@@ -1297,6 +1300,7 @@ mobilesecurity.calvet.ca.gov
 mono.ca.gov
 monocounty.ca.gov
 montereypark.ca.gov
+morgan-hill.ca.gov
 mortgageaccess.calhfa.ca.gov
 moto.cannabis.ca.gov
 motor.chp.ca.gov
@@ -1391,6 +1395,7 @@ orpmail.ad.sconet.ca.gov
 orpmail.sco.ca.gov
 osar.bppe.ca.gov
 osfm.fire.ca.gov
+osg.ca.gov
 osi.ca.gov
 osicmg.osi.ca.gov
 ospd.ca.gov
@@ -1458,6 +1463,7 @@ perb.ca.gov
 permits.aquaculturematters.ca.gov
 permits.dir.ca.gov
 permits.fairfield.ca.gov
+permits.morgan-hill.ca.gov
 permits.placer.ca.gov
 pers.ca.gov
 pes.post.ca.gov
@@ -1662,7 +1668,6 @@ sdrrc.sdcounty.ca.gov
 sdwis.waterboards.ca.gov
 sealevelrise.assembly.ca.gov
 search-bppe.dca.ca.gov
-search.dca.ca.gov
 sectest.dss.ca.gov
 sectest2.dss.ca.gov
 sections.calbar.ca.gov
@@ -2198,7 +2203,6 @@ webtools.ca.gov
 webtrac.cvrpd.ca.gov
 webtraining.dmh.ca.gov
 webutil.csac.ca.gov
-webvpn.dgs.ca.gov
 wemu.dca.ca.gov
 wi.oshpd.ca.gov
 wildlife.ca.gov
@@ -2370,7 +2374,6 @@ www.fix10.ca.gov
 www.ftb.ca.gov
 www.globalenergyconnection.ca.gov
 www.green.ca.gov
-www.hcd.ca.gov
 www.health.data.ca.gov
 www.healthcareoptions.dhcs.ca.gov
 www.healthcarevolunteers.ca.gov
