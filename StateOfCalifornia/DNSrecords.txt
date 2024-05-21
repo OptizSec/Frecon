@@ -186,7 +186,6 @@ autodiscover.delta.ca.gov
 autodiscover.dinuba.ca.gov
 autodiscover.dmhc.ca.gov
 autodiscover.dmv.ca.gov
-autodiscover.dsh.ca.gov
 autodiscover.dublin.ca.gov
 autodiscover.fire.ca.gov
 autodiscover.fppc.ca.gov
@@ -345,7 +344,6 @@ caflm.blogs.ca.gov
 cahan.ca.gov
 cahan2.ca.gov
 cais.ca.gov
-cal-osha.ca.gov
 cal.access.ca.gov
 calable.ca.gov
 calartsftp.cac.ca.gov
@@ -355,6 +353,7 @@ calbre.ca.gov
 calcareers.ca.gov
 calcarenetcms.ca.gov
 calcloud.ca.gov
+calcloud.sco.ca.gov
 calcloudtest.ca.gov
 calcompetes.ca.gov
 calcrg.business.ca.gov
@@ -378,6 +377,7 @@ calpia.ca.gov
 calrecycle.ca.gov
 calredie.cdph.ca.gov
 calrediestaging.cdph.ca.gov
+calrx.ca.gov
 calstrs.ca.gov
 calvet.ca.gov
 calvethomeloans.cdva.ca.gov
@@ -681,7 +681,6 @@ dev.biomonitoring.ca.gov
 dev.cahan.ca.gov
 dev.californiasciencecenter.ca.gov
 dev.epm.fiscal.ca.gov
-dev.ips.calpers.ca.gov
 dev.nebula.calpers.ca.gov
 dev.post.ca.gov
 dev.providerportal.cammis.medi-cal.ca.gov
@@ -725,6 +724,7 @@ doj.ca.gov
 dor.ca.gov
 doriis.ca.gov
 doriisgd.doriis.ca.gov
+doriistraining.calrecycle.ca.gov
 dot.ca.gov
 download.im.ces.ca.gov
 dpa.ca.gov
@@ -745,6 +745,7 @@ drinc.ca.gov
 driveclean.ca.gov
 dropbox.sdcounty.ca.gov
 drought.ca.gov
+drtest.breeze.ca.gov
 drupalstage.arb.ca.gov
 drwebmail.calpers.ca.gov
 dsafn.dgs.ca.gov
@@ -821,6 +822,7 @@ emergingtech.assembly.ca.gov
 emft.dev.courts.ca.gov
 emft.stg.courts.ca.gov
 emft.tc1.courts.ca.gov
+emsverification.emsa.ca.gov
 emtcert.emsa.ca.gov
 encrypt.ftb.ca.gov
 energy.ca.gov
@@ -830,6 +832,7 @@ engage.aging.ca.gov
 engage.qc.aging.ca.gov
 enterpriseenrollment.cslb.ca.gov
 enterpriseenrollment.lc.ca.gov
+enterpriseenrollment.lctest.ca.gov
 enterpriseregistration.sco.ca.gov
 environmental.calbar.ca.gov
 envirostor.dtsc.ca.gov
@@ -840,7 +843,9 @@ epm.cps.ca.gov
 epm.fiscal.ca.gov
 eportal.dhcs.ca.gov
 es-dmz-prod.calpia.ca.gov
+es-pools-new.pia.ca.gov
 eserv.oshpd.ca.gov
+eservices.ca.gov
 eservices.edd.ca.gov
 eservices.fairfield.ca.gov
 esi.waterboards.ca.gov
@@ -953,7 +958,6 @@ geotracker.waterboards.ca.gov
 ghgreport.arb.ca.gov
 ghgreporttraining.arb.ca.gov
 gis-apps.cdph.ca.gov
-gis-property.sonomacounty.ca.gov
 gis.arb.ca.gov
 gis.ca.gov
 gis.carb.arb.ca.gov
@@ -967,6 +971,7 @@ gov.ca.gov
 govnews.ca.gov
 gp.bcdc.ca.gov
 gp.bcsh.ca.gov
+gpbcsh.dca.ca.gov
 granada.ca.gov
 grants.business.ca.gov
 grants.ca.gov
@@ -1121,6 +1126,7 @@ ldibt.ext.cdph.ca.gov
 lead.abc.ca.gov
 leadfeewaiver.cdph.ca.gov
 learn.medi-cal.ca.gov
+learning.dgs.ca.gov
 legacy.ad.sconet.ca.gov
 legacy.calhfa.ca.gov
 legacy.co.madera.ca.gov
@@ -1133,7 +1139,6 @@ legacy.mail.ca.gov
 legacy.sco.ca.gov
 legacy.srvfire.ca.gov
 legaudit.assembly.ca.gov
-leginfo.ca.gov
 leginfo.legislature.ca.gov
 legis.ca.gov
 legislativeaffairs.edd.ca.gov
@@ -1277,6 +1282,7 @@ mfa.bscc.ca.gov
 mfa.dca.ca.gov
 mfiles-dev.arb.ca.gov
 mfiles-staging.arb.ca.gov
+middle-mile-broadband-initiative.cdt.ca.gov
 mig.access.ca.gov
 mig.access2.ca.gov
 migration.dhcs.ca.gov
@@ -1287,6 +1293,7 @@ mobile.calpers.ca.gov
 mobile.cde.ca.gov
 mobile.ventura.courts.ca.gov
 mobile.water.ca.gov
+mobileapi.etimesheets.ihss.ca.gov
 mobileenroll.calpers.ca.gov
 mobileenrollnp.calpers.ca.gov
 mobilegallery.ca.gov
@@ -1294,6 +1301,7 @@ mobilesecurity.calvet.ca.gov
 mono.ca.gov
 monocounty.ca.gov
 montereypark.ca.gov
+moodle.abc.ca.gov
 mortgageaccess.calhfa.ca.gov
 motor.chp.ca.gov
 mpa.aging.ca.gov
@@ -1313,6 +1321,8 @@ mycalpaysbwj.ca.gov
 mycalpayserp.ca.gov
 mycalpayssso.ca.gov
 mycalpers.ca.gov
+mycitations.courts.ca.gov
+myedd.edd.ca.gov
 myfamily.wic.ca.gov
 mygrantinfo.csac.ca.gov
 mylicense-dev.bcc.ca.gov
@@ -1323,7 +1333,6 @@ mymail.ospd.ca.gov
 myowa.ospd.ca.gov
 mysites.technology.ca.gov
 myturn.ca.gov
-n.cwds.ca.gov
 napa.ca.gov
 napa.courts.ca.gov
 nationalguard.csac.ca.gov
@@ -1343,11 +1352,11 @@ nicweb.ca.gov
 nmvb.ca.gov
 node.calepa.ca.gov
 nonprofitsector.assembly.ca.gov
+notary.cdn.sos.ca.gov
 npiam.fiscal.ca.gov
 npmd.calpers.ca.gov
 npoam.fiscal.ca.gov
 ns1.dca.ca.gov
-ns2.dca.ca.gov
 nsh.dmh.ca.gov
 o365wac.ces.ca.gov
 o365wfl.ces.ca.gov
@@ -1361,13 +1370,13 @@ odin.ua.aging.ca.gov
 odin2020.aging.ca.gov
 odin2020.demo.aging.ca.gov
 odin2020.ua.aging.ca.gov
+odyroa.sdcourt.ca.gov
 odysseytestintegration.fresno.courts.ca.gov
 office.cdfa.ca.gov
 oig.ca.gov
 oim.sdcounty.ca.gov
 olc.ca.gov
 oldmail.montereypark.ca.gov
-oles.ca.gov
 on.mono.ca.gov
 online-dev.bcc.ca.gov
 online-preprod.bcc.ca.gov
@@ -1429,12 +1438,14 @@ partnerhelp.dmhc.ca.gov
 partners.breeze.ca.gov
 partners.calhfa.ca.gov
 partners.cdph.ca.gov
+pas.cde.ca.gov
 pas.familieschange.ca.gov
 pasrr.dhcs.ca.gov
 pasrrtest.dhcs.ca.gov
 pass.cdcr.ca.gov
 pass.post.ca.gov
 passwordreset.tc1.courts.ca.gov
+patching.ftb.ca.gov
 patton.psh.dmh.ca.gov
 patton1.psh.dmh.ca.gov
 pave.dhcs.ca.gov
@@ -1489,6 +1500,8 @@ portal.metrofire.ca.gov
 portal.monterey.courts.ca.gov
 portal.napa.courts.ca.gov
 portal.ncric.ca.gov
+portal.prod2.odyssey.sdcourt.ca.gov
+portal.solano.courts.ca.gov
 portaltest.napa.courts.ca.gov
 post.ca.gov
 powerschool.csdf-cde.ca.gov
@@ -1503,15 +1516,18 @@ preprod.calpads.ca.gov
 primary2006.ss.ca.gov
 printview.dts.ca.gov
 printviewcc.dts.ca.gov
+prisma.dfpi.ca.gov
 privacy.assembly.ca.gov
 privacy.ca.gov
 privacycp.assembly.ca.gov
+probation.calbar.ca.gov
 processing.monterey.courts.ca.gov
 prod.cahan.ca.gov
 prodsimefile.boe.ca.gov
 projects.atlas.ca.gov
 projects.oshpd.ca.gov
 projects.saltonsea.ca.gov
+propertyinquiryportal.slocounty.ca.gov
 proto1cams.technology.ca.gov
 proto2cams.technology.ca.gov
 providerportal.aging.ca.gov
@@ -1544,7 +1560,6 @@ rclm.bcc.ca.gov
 rcpa.ca.gov
 rdm.bscc.ca.gov
 rds.cdcr.ca.gov
-ready.ca.gov
 realpropertylaw.calbar.ca.gov
 rebuildingca.ca.gov
 reerc.assembly.ca.gov
@@ -1565,6 +1580,7 @@ remote.cdcr.ca.gov
 remote.ciwmb.ca.gov
 remote.corr.ca.gov
 remote.delnorte.courts.ca.gov
+remote.dss.ca.gov
 remote.first5.ca.gov
 remote.srta.ca.gov
 remote1.ciwmb.ca.gov
@@ -1907,7 +1923,6 @@ teamwork.calema.ca.gov
 techblog.blogs.ca.gov
 techblog.ca.gov
 teens.familieschange.ca.gov
-televisit.dsh.ca.gov
 telework.cdcr.ca.gov
 temp.ca.gov
 temp.cacgn.ca.gov
@@ -2031,7 +2046,6 @@ uimodrfp.osi.ca.gov
 um.mail.ca.gov
 upload.oah.dgs.ca.gov
 upload.osp.dgs.ca.gov
-url1180.virtual.dmvonline.ca.gov
 url8220.courtinfo.ca.gov
 ut.grc.fiscal.ca.gov
 v.calheers.ca.gov
@@ -2078,7 +2092,6 @@ vpn.cphcs.ca.gov
 vpn.cslb.ca.gov
 vpn.dca.ca.gov
 vpn.dev.courts.ca.gov
-vpn.dublin.ca.gov
 vpn.fire.ca.gov
 vpn.fresno.courts.ca.gov
 vpn.hcrc.ca.gov
@@ -2209,7 +2222,6 @@ wp11.calhfa.ca.gov
 wp12.calhfa.ca.gov
 wprs.energy.ca.gov
 wpso.dmhc.ca.gov
-wpsostg.dmhc.ca.gov
 wrcvpn.waterboards.ca.gov
 ws.ci.milpitas.ca.gov
 ws.ebtproject.ca.gov
@@ -2332,7 +2344,6 @@ www.dhcs.ca.gov
 www.dinuba.ca.gov
 www.dir.ca.gov
 www.dmh.ca.gov
-www.dmhc.ca.gov
 www.dmv.ca.gov
 www.documents.dgs.ca.gov
 www.dor.ca.gov
@@ -2345,7 +2356,6 @@ www.ecos.ca.gov
 www.edd.ca.gov
 www.ehib.ca.gov
 www.eldoradocounty.ca.gov
-www.elearning.dmv.ca.gov
 www.email.ncric.ca.gov
 www.emailalert.dmv.ca.gov
 www.emc.cta.ca.gov
@@ -2410,6 +2420,7 @@ www.p65warnings.ca.gov
 www.patton.psh.dmh.ca.gov
 www.patton1.psh.dmh.ca.gov
 www.perb.ca.gov
+www.permits.morgan-hill.ca.gov
 www.pia.ca.gov
 www.portal.caweb.ca.gov
 www.portal.ncric.ca.gov
@@ -2476,6 +2487,7 @@ www.tn.ncric.ca.gov
 www.todb.ca.gov
 www.tracelead.abc.ca.gov
 www.training.calpads.ca.gov
+www.training.dgs.ca.gov
 www.tranquillityrcd.ca.gov
 www.tribalaffairs.ca.gov
 www.tuolumne.courts.ca.gov
