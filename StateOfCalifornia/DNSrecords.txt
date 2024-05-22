@@ -139,6 +139,7 @@ asmsmtp.ca.gov
 assembly.ca.gov
 assemblyexternalpool.asm.ca.gov
 assetadvantage.fiscal.ca.gov
+assist.dsh.ca.gov
 astro.dre.ca.gov
 atf.cdph.ca.gov
 atlas.resources.ca.gov
@@ -152,6 +153,7 @@ audit.submit.caat.ca.gov
 auditor.ca.gov
 auth.calhfa.ca.gov
 auth.my.calpers.ca.gov
+author.chhsa.ca.gov
 autl.assembly.ca.gov
 autodiscover.ad.sconet.ca.gov
 autodiscover.alameda.courts.ca.gov
@@ -276,6 +278,7 @@ billing.technology.ca.gov
 biomonitoring.ca.gov
 biportal.dhcs.ca.gov
 birs.technology.ca.gov
+bizfileonline.sos.ca.gov
 blog.cirm.ca.gov
 blogs.ca.gov
 blogs.cdfa.ca.gov
@@ -843,8 +846,8 @@ epm.fiscal.ca.gov
 eportal.dhcs.ca.gov
 es-dmz-prod.calpia.ca.gov
 es-pools-new.pia.ca.gov
-esapps.dmv.ca.gov
 eserv.oshpd.ca.gov
+eservices.ca.gov
 eservices.edd.ca.gov
 eservices.fairfield.ca.gov
 esi.waterboards.ca.gov
@@ -1344,6 +1347,7 @@ ncric.ca.gov
 ncricmail.ncric.ca.gov
 nebula.calpers.ca.gov
 net.ca.gov
+newsroom.courts.ca.gov
 nexus.sacramento.ca.gov
 ngcacitrix.calguard.ca.gov
 ngcamy.calguard.ca.gov
@@ -1417,6 +1421,7 @@ owa.cde.ca.gov
 owa.ci.seal-beach.ca.gov
 owa.dgs.ca.gov
 owa.dinuba.ca.gov
+owa.dmv.ca.gov
 owa.jud.ca.gov
 owa.lc.ca.gov
 owa.mail.ca.gov
@@ -1438,7 +1443,6 @@ parenting.familieschange.ca.gov
 parents.familieschange.ca.gov
 parks.ca.gov
 partnerhelp.dmhc.ca.gov
-partners.breeze.ca.gov
 partners.calhfa.ca.gov
 partners.cdph.ca.gov
 pas.cde.ca.gov
@@ -1844,7 +1848,6 @@ spoc.cps.ca.gov
 srfecc.ca.gov
 srv5.boe.ca.gov
 ss.ca.gov
-ssc.ca.gov
 ssl.alrb.ca.gov
 ssl.arb.ca.gov
 ssl.dre.ca.gov
@@ -1928,6 +1931,7 @@ teamwork.calema.ca.gov
 techblog.blogs.ca.gov
 techblog.ca.gov
 teens.familieschange.ca.gov
+televisit.dsh.ca.gov
 telework.cdcr.ca.gov
 temp.ca.gov
 temp.cacgn.ca.gov
@@ -2208,7 +2212,6 @@ webtools.ca.gov
 webtrac.cvrpd.ca.gov
 webtraining.dmh.ca.gov
 webutil.csac.ca.gov
-webvpn.dgs.ca.gov
 wemu.dca.ca.gov
 wi.oshpd.ca.gov
 wildlife.ca.gov
@@ -2263,7 +2266,6 @@ www.auditor.ca.gov
 www.babysafe.ca.gov
 www.bar.ca.gov
 www.bboard.technology.ca.gov
-www.bbs.ca.gov
 www.billing.technology.ca.gov
 www.boe.ca.gov
 www.boomerang.ca.gov
@@ -2343,6 +2345,7 @@ www.dgs.ca.gov
 www.dgsapps.dgs.ca.gov
 www.dhbc.ca.gov
 www.dhcs.ca.gov
+www.digitalstore.osp.dgs.ca.gov
 www.dinuba.ca.gov
 www.dir.ca.gov
 www.dmh.ca.gov
@@ -2368,6 +2371,7 @@ www.etimesheets.ihss.ca.gov
 www.etp.ca.gov
 www.evvecap.ca.gov
 www.evvecat.ca.gov
+www.exchange.morgan-hill.ca.gov
 www.ext.dhs.ca.gov
 www.ext2.dhs.ca.gov
 www.fairfield.ca.gov
@@ -2394,7 +2398,6 @@ www.jobs.ca.gov
 www.justicepartners.monterey.courts.ca.gov
 www.kern.courts.ca.gov
 www.labormarketinfo.edd.ca.gov
-www.leginfo.ca.gov
 www.lemongrove.ca.gov
 www.library.ca.gov
 www.lminfo-test.ca.gov
@@ -2509,7 +2512,6 @@ www.wildlife.ca.gov
 www.ws.ebtproject.ca.gov
 www.yuba.courts.ca.gov
 www2.brea.ca.gov
-www2.calrecycle.ca.gov
 www2.cde.ca.gov
 www2.cslb.ca.gov
 www2.mbc.ca.gov
